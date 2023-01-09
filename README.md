@@ -18,6 +18,14 @@
 
    ### ***节（section）***：
     ​ 所有的参数都是以节为单位结合在一起。节名称独占一行，在节声明后的所有的参数都属于该节。节没有结束标识符，一个section的开始就是上一个section的结束。格式如下：[section]
-
-   ### 注释（comments)：注释用分号;表示，放在注释之前，;号后直到行尾均为注释。示例如下：;i wish nothing but the best for you
+## ini示例  我的世界: sercofing.ini
+    Properties
+          1 [server]
+          2 ip = 127.0.0.1
+          3 port = 25565
+          4 OnlineMode = false
+          5 PvP = false
+          6 CopyToClipboard = false
+    
+   
 
