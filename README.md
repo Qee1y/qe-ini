@@ -18,7 +18,7 @@
 
    ### ***节（section）***：
     ​ 所有的参数都是以节为单位结合在一起。节名称独占一行，在节声明后的所有的参数都属于该节。节没有结束标识符，一个section的开始就是上一个section的结束。格式如下：[section]
-## ini示例  我的世界: sercofing.ini
+## ini示例: sercofing.ini
     Properties
           1 [server]
           2 ip = 127.0.0.1
